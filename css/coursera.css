@@ -62,10 +62,10 @@ div{
 }
 @media (min-width:768px) and (max-width: 992px){
   #first{
-    width: 50%;
+    width: 48%;
   }
   #second{
-    width: 50%;
+    width: 48%;
   }
   #third{
     width: 98%;
